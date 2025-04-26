@@ -59,4 +59,3 @@ solc --strict-assembly --optimize --optimize-runs 20000 yul/HorseStoreYul.yul --
 solc --optimize --optimize-runs 20000 src/HorseStore.sol --bin | grep 60 
 solc --optimize --optimize-runs 20000 src/HorseStoreYul.sol --bin | grep 60 
 ```
-# Huff
